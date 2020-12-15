@@ -2,6 +2,7 @@
   <dictionary name="Armin">
     <words>
       <w>apiview</w>
+      <w>viewset</w>
     </words>
   </dictionary>
 </component>
